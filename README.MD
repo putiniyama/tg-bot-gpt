@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/putiniyama/tg-bot-gpt">
-    <img src="https://cdn.midjourney.com/541a73e7-0d79-4600-bc9d-7034e3e39190/0_1.png" alt="logo" width="200" height="165">
+    <img src="https://cdn.midjourney.com/541a73e7-0d79-4600-bc9d-7034e3e39190/0_1.png" alt="logo" width="200" height="200">
   </a>
 </p>
 
